@@ -13,6 +13,11 @@ Managing Financial Chaos: This project presents a data-driven framework for cred
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
 </p>
 
+<div align="center">
+  <img src="assets/demo.svg" alt="Project Pipeline Visualization" width="800"/>
+</div>
+
+<br>
 <p align="center">
   <a href="https://github.com/<your-username>/finance_risk_project/stargazers">
     <img src="https://img.shields.io/github/stars/<your-username>/finance_risk_project?color=yellow&style=flat-square" />
