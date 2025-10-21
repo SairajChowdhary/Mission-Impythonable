@@ -20,7 +20,7 @@ Managing Financial Chaos: This project presents a data-driven framework for cred
 <br>
 <p align="center">
   <a href="https://github.com/<your-username>/finance_risk_project/stargazers">
-    <img src="https://img.shields.io/github/stars/<your-username>/finance_risk_project?color=yellow&style=flat-square" />
+    <img src="https://img.shields.io/github/stars/Sairaj_Chowdary/finance_risk_project?color=yellow&style=flat-square" />
   </a>
   <a href="https://github.com/<your-username>/finance_risk_project/network/members">
     <img src="https://img.shields.io/github/forks/<your-username>/finance_risk_project?color=orange&style=flat-square" />
@@ -35,7 +35,7 @@ Managing Financial Chaos: This project presents a data-driven framework for cred
 <div align="center">
 
 🎯 **Formal Title:**  
-`Calculated Chaos: Quantitative Risk Management and Portfolio Optimisation using Machine Learning`
+`Quantitative Risk Management and Portfolio Optimisation using Machine Learning`
 
 💼 **Domain:** Finance • Risk Analytics • NLP • Portfolio Optimization  
 🧠 **Tech Stack:** Python · scikit-learn · NLTK · NumPy · Streamlit · Matplotlib  
