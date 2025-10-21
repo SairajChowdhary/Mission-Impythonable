@@ -148,11 +148,8 @@ to adapt intelligently to changing market dynamics.
 
 ---
 
-## 🪄 Visual Demo (Animated Preview)
-
-<p align="center">
-  <img src="https://github.com/kaustubhgupta/time-to-learn/raw/main/assets/streamlit.gif" width="700" alt="Streamlit demo animation"/>
-</p>
+## 🪄 Visual Demo
+<img width="768" height="530" alt="Screenshot 2025-10-21 143824" src="https://github.com/user-attachments/assets/430a3d92-d9b4-4a6a-8f3f-e11cdc7e8e92" />
 
 ---
 
