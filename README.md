@@ -1,12 +1,9 @@
 # Mission-Impythonable
 Managing Financial Chaos: This project presents a data-driven framework for credit risk prediction, sentiment-assisted portfolio optimization, and Monte Carlo–based risk simulation using Python. It integrates financial analytics, machine learning, and quantitative optimization to evaluate risk exposure.
-Perfect 😎 — here’s your **complete, production-ready animated GitHub README** for your project:
-✨ *Fully formatted, with badges, hover effects, contribution snake animation, and light/dark adaptive visuals.*
-Just copy this directly into your `README.md` file.
 
 ---
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=800&lines=💹+Calculated+Chaos;Quantitative+Finance+%26+Risk+Management;Driven+by+Machine+Learning+%26+Python+🐍" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=800&lines=💹+Mission+Impythonable;Quantitative+Finance+%26+Risk+Management;Driven+by+Machine+Learning+%26+Python+🐍" alt="Typing Animation" />
 </h1>
 
 ---
@@ -35,7 +32,7 @@ Just copy this directly into your `README.md` file.
 <div align="center">
 
 🎯 **Formal Title:**  
-`Calculated Chaos: Quantitative Risk Management and Portfolio Optimization using Machine Learning`
+`Calculated Chaos: Quantitative Risk Management and Portfolio Optimisation using Machine Learning`
 
 💼 **Domain:** Finance • Risk Analytics • NLP • Portfolio Optimization  
 🧠 **Tech Stack:** Python · scikit-learn · NLTK · NumPy · Streamlit · Matplotlib  
@@ -47,7 +44,7 @@ Just copy this directly into your `README.md` file.
 ## 🚀 About the Project
 
 This repository presents a **data-driven Finance & Risk Intelligence System** integrating  
-credit-risk modeling, sentiment-based portfolio optimization, and Monte Carlo simulation  
+credit-risk modelling, sentiment-based portfolio optimisation, and Monte Carlo simulation  
 to **forecast risk exposure and enhance decision-making under uncertainty.**
 
 > 💡 *Because managing risk should be a science — not a gamble.*
@@ -58,15 +55,14 @@ to **forecast risk exposure and enhance decision-making under uncertainty.**
 
 - 🏦 **Credit Risk Modeling** — Predict default probabilities using Random Forests.  
 - 🧠 **Sentiment Analysis** — NLP-based market mood detection (VADER).  
-- 📊 **Portfolio Optimization** — Monte Carlo simulation with Sharpe ratio maximization.  
+- 📊 **Portfolio Optimisation** — Monte Carlo simulation with Sharpe ratio maximisation.  
 - 🧾 **Interactive Dashboard** — Streamlit analytics for visualization.  
 - 📈 **Explainable Metrics** — Performance and volatility evaluation in real-time.  
 
 ---
 
 ## ⚙️ Architecture
-
-````mermaid
+````
 flowchart TD
     A[Raw Financial Data] --> B[Credit Risk Model (Random Forest)]
     A --> C[Sentiment Analysis (VADER NLP)]
@@ -199,13 +195,3 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ```
 
 ---
-
-### ✅ To Use:
-
-1. Replace `<your-username>` with your actual GitHub username.
-2. Save this as `README.md` in your project root.
-3. Commit and push — GitHub will render the animation, badges, and layout automatically.
-
----
-
-Would you like me to add a **dark/light mode–adaptive banner image** (auto switches color theme depending on GitHub mode) to the top for extra polish?
