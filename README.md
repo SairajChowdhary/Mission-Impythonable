@@ -14,7 +14,7 @@ Managing Financial Chaos: This project presents a data-driven framework for cred
 </p>
 
 <div align="center">
-  <img src="sdns.svg" alt="Project Pipeline Visualization" width="800"/>
+  <img src="files/demo.svg" alt="Project Pipeline Visualization" width="800"/>
 </div>
 
 <br>
